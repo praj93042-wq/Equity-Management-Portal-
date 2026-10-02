@@ -1,0 +1,6 @@
+{
+  "name": "EquiCraft AI - ESOP Governance & Equity Intelligence",
+  "description": "Enterprise ESOP governance, Rule 12 compliance, Damodaran valuation modeling, fine-print contract auditing, and multi-stage tax simulation for high-growth ventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
